@@ -75,6 +75,11 @@ Click on the __*Fork*__ button at the top right corner of this page. Forking mea
                 }
 </div>
 
+ gs-section-01 h3 {
+                   color: lightblue;
+                   font-size: 30px;
+                }
+
 <div class="gs-section-02" markdown="1">
 
 ### 2. Rename the repository to `YOURUSERNAME.github.io`
