@@ -70,11 +70,6 @@ Scroll down to see the steps involved, but here is a 30-second video just as a r
 
 Click on the __*Fork*__ button at the top right corner of this page. Forking means that you're copying this entire project and all its files into your account. Do not click on the __*Create fork*__ button on the next page yet.
 </div>
-<style>
- .gs-section-01 h3 {
-                   color: lightblue
-                }
-</style>
 
 <div class="gs-section-02" markdown="1">
 
@@ -84,11 +79,6 @@ You'll see the word "repository" used a lot in GitHub - it simply means "project
 
 > Tip: If you want to use a different URL for your website, check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain)
 </div>
-<style>
- .gs-section-02 h3 {
-                   color: blue;
-                   font-size: 30px
-                }
 
 <div class="gs-section-03" markdown="1">
   
@@ -98,11 +88,7 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, f
 
 > Note: In the video above, only one setting in the `_config.yml` file is edited, but you should go through the rest of the settings as well.
 </div>
-<style>
- .gs-section-03 h3 {
-                   color: darkblue;
-                   font-size: 30px;
-                }
+
 
 ### 4. Congratulations! You have a website!
 
@@ -258,3 +244,22 @@ You can also contribute by becoming an [official sponsor](https://github.com/spo
 This template was not made *entirely* from scratch. I'd like to give special thanks to [Jekyll Now](https://github.com/barryclark/jekyll-now) and [Bootstrap Clean Blog](https://github.com/IronSummitMedia/startbootstrap-clean-blog), from whom I've taken several ideas initially.
 
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
+
+<style>
+
+ .gs-section-01 h3 {
+                   color: lightblue
+                }
+  .gs-section-02 h3 {
+                   color: blue
+                }
+
+
+.gs-section-01 p {
+     font-size: 30px;
+}
+ .gs-section-03 h3 {
+                   color: darkblue;
+                   font-size: 30px;
+                }
+</style>
