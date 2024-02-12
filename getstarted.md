@@ -91,7 +91,7 @@ You'll see the word "repository" used a lot in GitHub - it simply means "project
 
 > Tip: If you want to use a different URL for your website, check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain)
 
-  .pretty-text h1 {
+  .pretty-text h2 {
                    color: blue;
                    font-size: 30px;
                 }
@@ -105,7 +105,7 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, f
 
 > Note: In the video above, only one setting in the `_config.yml` file is edited, but you should go through the rest of the settings as well.
 
-  .pretty-text h1 {
+  .pretty-text h3 {
                    color: darkblue;
                    font-size: 30px;
                 }
@@ -116,7 +116,7 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, f
 
 If you named your project correctly and made an edit to the config file, your website should be ready in a minute or two at `https://YOURUSERNAME.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
 
- .pretty-text h1 {
+ .pretty-text h4 {
                    color: black;
                    font-size: 30px;
                 }
