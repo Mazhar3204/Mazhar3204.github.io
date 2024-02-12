@@ -69,13 +69,9 @@ Scroll down to see the steps involved, but here is a 30-second video just as a r
 ### 1. Fork this project
 
 Click on the __*Fork*__ button at the top right corner of this page. Forking means that you're copying this entire project and all its files into your account. Do not click on the __*Create fork*__ button on the next page yet.
-  .pretty-text h1 {
-                   color: lightblue;
-                   font-size: 30px;
-                }
 </div>
 
- gs-section-01 h3 {
+ .gs-section-01 h3 {
                    color: lightblue;
                    font-size: 30px;
                 }
