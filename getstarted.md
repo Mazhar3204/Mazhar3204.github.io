@@ -1,3 +1,12 @@
+# List of links in the navigation bar
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Getting Started: "getstarted"                 
+  Author's home: "http://mazharwebsite.com"
+  Table Demo: "Table-Demo" 
 # Beautiful Jekyll
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
@@ -48,16 +57,6 @@ Developing and maintaining Beautiful Jekyll takes a lot of time and effort - tha
 - [Varna Sri Raman](https://about.me/varna)
 
 **[Become a sponsor for Beautiful Jekyll and unlock new features\!](https://github.com/sponsors/daattali/sponsorships?tier_id=39856)**
-
-# List of links in the navigation bar
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - Getting Started: "getstarted"                         # ADD THIS LINK
-  Author's home: "http://mazharwebsite.com"
-  Table Demo: "Yable-Demo" 
 
 # Build your website in 3 steps
 
