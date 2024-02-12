@@ -4,8 +4,8 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-    - Getting Started: "getstarted"                         
-  Table Demo: "table-demo"    
+    - Getting Started: "http://Mazhar3204.githib.io/getstarted/"                         
+  Table Demo: "http://Mazhar3204.githib.io/Table-Demo/"   
 # Beautiful Jekyll
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
