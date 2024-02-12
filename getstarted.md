@@ -57,6 +57,7 @@ navbar-links:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - Getting Started: "getstarted"                         # ADD THIS LINK
   Author's home: "http://mazharwebsite.com"
+  Table Demo: "Yable-Demo" 
 
 # Build your website in 3 steps
 
