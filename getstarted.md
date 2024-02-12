@@ -70,6 +70,7 @@ Scroll down to see the steps involved, but here is a 30-second video just as a r
 
 Click on the __*Fork*__ button at the top right corner of this page. Forking means that you're copying this entire project and all its files into your account. Do not click on the __*Create fork*__ button on the next page yet.
 </div>
+<style>
  .gs-section-01 h3 {
                    color: lightblue;
                    font-size: 30px;
@@ -83,7 +84,7 @@ You'll see the word "repository" used a lot in GitHub - it simply means "project
 
 > Tip: If you want to use a different URL for your website, check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain)
 </div>
-
+<style>
  .gs-section-02 h3 {
                    color: blue;
                    font-size: 30px
@@ -97,6 +98,7 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, f
 
 > Note: In the video above, only one setting in the `_config.yml` file is edited, but you should go through the rest of the settings as well.
 </div>
+<style>
  .gs-section-03 h3 {
                    color: darkblue;
                    font-size: 30px;
